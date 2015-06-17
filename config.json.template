@@ -1,0 +1,6 @@
+{
+  "weatherService": "https://api.forecast.io/forecast/[YOUR KEY]/[YOUR LONG/LAT]?units=si",
+  "pushbulletTitle":"Weather for [YOUR CITY]",
+  "pushbulletUrl": "https://api.pushbullet.com/v2/pushes",
+  "pushbulletToken": "[YOUR PUSHBULLET TOKEN]"	
+}
